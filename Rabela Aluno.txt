@@ -1,0 +1,11 @@
+CREATE TABLE Aluno
+(
+    ra INT NOT NULL
+    ,nome VARCHAR(120) NOT NULL
+    ,email VARCHAR(80) NOT NULL
+    ,celular CHAR(11) NOT NULL
+    ,sigla_curso CHAR(2) NOT NULL
+    ,constraint pkAluno primary key(ra)
+    );
+
+select * from Aluno
