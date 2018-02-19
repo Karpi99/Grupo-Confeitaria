@@ -1,7 +1,7 @@
 # Grupo-Impactadores
 # Nomes e R.A's dos Integrantes:
-  # Felipe Gomes     R.A:
-  # Felipe Simões Pecco Martins   R.A: 1700729
+  # Diego Santos Constantino RA: 1700677
+  # Matheus Scotini Rozario R.A: 1700161
   # Hedgar Ramos Pierin     R.A: 1600927
   # Henrique Yochicuni     R.A: 1700496
   # Jonas Camargo Oliveira Melo     R.A: 1700578
