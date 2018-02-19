@@ -1,4 +1,4 @@
-# Grupo-Impactadores
+# Grupo-Confeitaria-OPE
 # Nomes e R.A's dos Integrantes:
   # Diego Santos Constantino RA: 1700677
   # Matheus Scotini Rozario R.A: 1700161
